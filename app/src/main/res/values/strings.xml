@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubrepositoriesSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_box_text">Enter a text</string>
+    <string name="search_url_display">Resultant URL</string>
+    <string name="search_button">Search GitHub</string>
+    <string name="search_results">Search Results</string>
+</resources>
